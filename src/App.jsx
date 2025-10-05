@@ -15,7 +15,7 @@ return(
           <Route path="/" element={<Home />} />
           <Route path="/plants" element={<Plants />} />
           <Route path="/flowers" element={<Flowers />} />
-          {/* <Route path="/about" element={<About />} /> */}
+          <Route path="/about" element={<About/>} />
         </Routes>  
 
 </>
