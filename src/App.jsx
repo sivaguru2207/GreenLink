@@ -3,6 +3,7 @@ import Flowers from "./Components/Flowers";
 import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
 import Plants from "./Components/Plants";
+import About from "./Components/About";
 
 const App =()=>{
 
